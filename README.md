@@ -1,2 +1,24 @@
-# ai-smart-search-assistant
-This is a mini project where user can give input and the AI agent fetches data and shows it in real time
+# \# AI Smart Search Assistant
+
+# 
+
+# AI powered search assistant that allows users to type any query
+
+# and receive summarized internet results.
+
+# 
+
+# Tech Stack:
+
+# 
+
+# Frontend: React  
+
+# Backend: Spring Boot (Gradle)  
+
+# Streaming: Kafka  
+
+# AI: OpenAI  
+
+# Database: PostgreSQL
+
